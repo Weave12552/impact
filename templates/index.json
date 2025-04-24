@@ -353,37 +353,51 @@
         "1664424230c4756b0e-0": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Qui sommes-nous ?"
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Découvrez notre histoire",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>Derrière chaque bouffée : des années de passion condensées dans nos liquides.</em></p><ul><li><em>Fabriqué en France</em></li><li><em>Produit de 1ére qualité</em></li><li><em>Par des vapoteurs, Pour des vapoteurs</em></li></ul>"
+          }
+        },
+        "button_EWLMYi": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Notre histoire",
+            "url": "shopify://pages/notre-histoire",
+            "background": "#2c4c46",
+            "text_color": "#f9e7c4"
           }
         }
       },
       "block_order": [
         "1664424230c4756b0e-0",
         "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
+        "1664424230c4756b0e-2",
+        "button_EWLMYi"
       ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
+        "image": "shopify://shop_images/ChatGPT_Image_16_avr._2025_15_26_23.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_16_avr._2025_15_26_23.png",
+        "mobile_text_position": "place-self-center-start text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#f9e7c4",
+        "overlay_color": "#2c4c46",
         "overlay_opacity": 30
       }
     },
