@@ -263,7 +263,16 @@
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "pop-art-superhero-comics-style",
+          "atomic-age-science-50s",
+          "americana-road-trip-ambiance",
+          "candy-shop-pin-up",
+          "gangster-s-doll-film-noir",
+          "rockabilly-luxe-premium",
+          "space-age-pin-up-sci-fi-50s",
+          "vegas-pin-up-casino-retro"
+        ],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -271,17 +280,17 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,
         "subheading": "",
-        "title": "Featured collection",
-        "content": "",
+        "title": "Produits en vedette",
+        "content": "<p><em><strong>Vos petits préférés !</strong></em></p>",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#2c4c46",
         "heading_color": "",
         "heading_gradient": "",
         "product_card_background": "",
-        "product_card_text_color": ""
+        "product_card_text_color": "#2c4c46"
       }
     },
     "impact-text": {
