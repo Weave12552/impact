@@ -119,11 +119,12 @@
         "item_rgTnRg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1bdd8d67-b9ae-40af-90fc-62009c87523c.png",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "Tout savoir sur les e-liquides : guide pour vapoteurs débutants et confirmés",
+            "link_url": "shopify://blogs/infos/tout-savoir-sur-les-e-liquides-guide-pour-vapoteurs-debutants-et-confirmes",
             "background": "",
-            "text_color": "#ffffff",
+            "text_color": "#f9e7c4",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -131,11 +132,12 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/fd8299be-0929-4da3-908c-a427f0720935.png",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
+            "link_text": "💨 Comment bien utiliser les e-liquides ? Guide pratique pour vapoteurs débutants",
+            "link_url": "shopify://blogs/infos/💨-comment-bien-utiliser-les-e-liquides-guide-pratique-pour-vapoteurs-debutants",
             "background": "",
-            "text_color": "#ffffff",
+            "text_color": "#f9e7c4",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
@@ -143,11 +145,12 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/16d65295-7585-4962-a6c3-7eca80305658.png",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "shopify://blogs/infos",
+            "link_text": "🧪 Le laboratoire de la vape : explore, crée et partage tes recettes e-liquide",
+            "link_url": "shopify://blogs/infos/le-laboratoire-de-la-vape-explore-cree-et-partage-tes-recettes-e-liquide",
             "background": "",
-            "text_color": "#ffffff",
+            "text_color": "#f9e7c4",
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
