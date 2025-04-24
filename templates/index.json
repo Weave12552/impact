@@ -407,9 +407,10 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/collection_sucre.png",
+            "title": "Nos collections du moment",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/collection-sucree",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -428,9 +429,10 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/collection_frais.png",
+            "title": "",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/collection-frais",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -449,9 +451,10 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/collection_fruite.png",
+            "title": "",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/collection-fruitee",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -470,9 +473,10 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/collection_tout_les_produits.png",
+            "title": "",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/tous-les-produits",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
