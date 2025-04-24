@@ -162,14 +162,14 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "block_size": "medium",
         "subheading": "",
         "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#2c4c46",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
