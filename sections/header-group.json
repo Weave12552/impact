@@ -42,10 +42,10 @@
         "message_CBkGfp"
       ],
       "settings": {
-        "enable_sticky": false,
-        "autoplay": false,
+        "enable_sticky": true,
+        "autoplay": true,
         "cycle_speed": 6,
-        "text_size": "text-xs",
+        "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
