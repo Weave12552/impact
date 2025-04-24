@@ -319,7 +319,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Arômes de qualité. 100% Plaisir garanti.",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -338,13 +338,13 @@
         "impact_text_style": "fill",
         "text_divider": "none",
         "impact_text_size_ratio": 1,
-        "background": "",
+        "background": "#2c4c46",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "heading_text_color": "#f9e7c4",
+        "heading_gradient": "linear-gradient(180deg, rgba(249, 231, 196, 1), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "#f9e7c4",
+        "button_background": "#f9e7c4",
+        "button_text_color": "#f9e7c4"
       }
     },
     "image-with-text-overlay": {
