@@ -183,14 +183,14 @@
       "type": "scrolling-text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
+        "text": "L’Excellence de la Vape Artisanale",
+        "text_size": "small",
+        "text_style": "outline",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
-        "background": "",
+        "background": "#2c4c46",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#f9e7c4",
         "text_gradient": ""
       }
     },
@@ -271,9 +271,9 @@
         "content": "",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#2c4c46",
         "background_gradient": "",
-        "text_color": "#2c4c46",
+        "text_color": "#f9e7c4",
         "heading_color": "",
         "heading_gradient": ""
       }
@@ -303,13 +303,13 @@
         "content": "<p><em><strong>Vos petits préférés !</strong></em></p>",
         "link_url": "",
         "link_text": "",
-        "background": "",
+        "background": "#2c4c46",
         "background_gradient": "",
-        "text_color": "#2c4c46",
+        "text_color": "#f9e7c4",
         "heading_color": "",
         "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": "#2c4c46"
+        "product_card_background": "#2c4c46",
+        "product_card_text_color": "#f9e7c4"
       }
     },
     "impact-text": {
