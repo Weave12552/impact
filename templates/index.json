@@ -181,13 +181,13 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "collection-sucree",
             "subheading": "",
             "title": "",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
+            "text_color": "#f9e7c4",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -195,13 +195,13 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "collection-fruitee",
             "subheading": "",
             "title": "",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
+            "text_color": "#f9e7c4",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -209,13 +209,27 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "collection-frais",
             "subheading": "",
             "title": "",
             "url": "",
             "heading_tag": "h2",
             "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
+            "text_color": "#f9e7c4",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_eyjYTm": {
+          "type": "collection",
+          "settings": {
+            "collection": "tous-les-produits",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#f9e7c4",
             "overlay_color": "#000000",
             "overlay_opacity": 30
           }
@@ -224,7 +238,8 @@
       "block_order": [
         "collection-1",
         "collection-2",
-        "collection-3"
+        "collection-3",
+        "collection_eyjYTm"
       ],
       "settings": {
         "full_width": true,
@@ -233,10 +248,10 @@
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
-        "title": "Collection list",
+        "title": "Nos collections de produits :",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
