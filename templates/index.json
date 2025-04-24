@@ -84,7 +84,7 @@
             "stretch_image": true,
             "link_text": "🚫 Top 5 des erreurs qu’on fait tous en commença...",
             "link_url": "shopify://blogs/infos/🚫-top-5-des-erreurs-qu-on-fait-tous-en-commencant-la-vape",
-            "background": "",
+            "background": "#2c4c46",
             "text_color": "#f9e7c4",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -93,10 +93,11 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_avr._2025_20_47_14.png",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
+            "link_text": "Le guide maison du Petit Salon Vape",
+            "link_url": "shopify://blogs/infos/le-guide-maison-du-petit-salon-vape",
+            "background": "#f9e7c4",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 0
