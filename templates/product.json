@@ -217,17 +217,107 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/746b1bf2-05a1-46b3-8392-182cbb458d62.png",
+        "mobile_image": "shopify://shop_images/ee1a80c5-80ec-42ad-a1e0-a6916675f849.png",
         "mobile_text_position": "place-self-center-start text-start",
         "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#f9e7c4",
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "faq_hjiQFP": {
+      "type": "faq",
+      "blocks": {
+        "item_eaRwd7": {
+          "type": "item",
+          "settings": {
+            "title": "Le transport est-il sûr ?",
+            "content": "<p><em>oui ! Nous utilisons un transporteur agréé pour livrer vos commandes en toute sécurité.</em></p>"
+          }
+        },
+        "item_xaWTkQ": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que vos e-liquides sont fabriqués en France ?",
+            "content": "<p><em>Oui, tous nos e-liquides sont fabriqués en France selon les normes européennes en vigueur, avec des ingrédients de qualité pharmaceutique.</em></p>"
+          }
+        },
+        "item_AqR4pF": {
+          "type": "item",
+          "settings": {
+            "title": "Les paiements sont-ils sécurisés sur votre site ?",
+            "content": "<p><em>Absolument ! Le site utilise un système de paiement 100% sécurisé (certificat SSL + solutions comme PayPal, Apple Pay et carte bancaire</em></p>"
+          }
+        },
+        "item_akWFcV": {
+          "type": "item",
+          "settings": {
+            "title": "Vos e-liquides contiennent-ils de la nicotine ?",
+            "content": "<p><em>Nos e-liquides sont disponibles avec ou sans nicotine, avec plusieurs dosages pour s’adapter à vos besoins.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_eaRwd7",
+        "item_xaWTkQ",
+        "item_AqR4pF",
+        "item_akWFcV"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "Nous y avons déjà répondu",
+        "title": "Vous avez une question ?",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "#f9e7c4",
+        "accordion_text_color": "#2c4c46"
+      }
+    },
+    "featured_collection_bjUCFX": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "tous-les-produits",
+        "products": [],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 2,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#f9e7c4",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "text_with_icons_zw7nkC",
-    "image_with_text_overlay_6EwBFA"
+    "image_with_text_overlay_6EwBFA",
+    "faq_hjiQFP",
+    "featured_collection_bjUCFX"
   ]
 }
