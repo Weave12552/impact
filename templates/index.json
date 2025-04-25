@@ -528,8 +528,8 @@
         "background": "",
         "background_gradient": "",
         "text_color": "#f9e7c4",
-        "before_text_color": "#f9e7c4",
-        "after_text_color": "#2c4c46",
+        "before_text_color": "#2c4c46",
+        "after_text_color": "#f9e7c4",
         "drag_cursor_background": "#f9e7c4",
         "drag_cursor_color": "#2c4c46"
       }
