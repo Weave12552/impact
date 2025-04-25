@@ -115,9 +115,10 @@
         "newsletter_GGrP9j": {
           "type": "newsletter",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_25_avr._2025_10_23_50_1.png",
             "image_width": 120,
             "heading_size": "h3",
-            "title": "Sign up to our newsletter",
+            "title": "Inscrivez-vous à notre newsletter",
             "content": ""
           }
         }
