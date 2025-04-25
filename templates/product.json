@@ -62,10 +62,10 @@
             "payment_button_text_color": "#f9e7c4"
           }
         },
-        "liquid_KVpwcK": {
+        "liquid_TGQW7c": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"essential-banners-block\" id=\"7e537291-2c20-460a-8a0c-945d4df1ca1d\"></div>"
+            "liquid": "<style>\n  .payment-icons {\n    display: flex;\n    flex-wrap: wrap;\n    gap: 10px;\n    justify-content: center;\n    margin-top: 20px;\n  }\n  .payment-icons svg {\n    width: 36px;\n    height: auto;\n  }\n</style>\n\n<div class=\"payment-icons\">\n  {% assign enabled_payment_types = 'visa,master,american_express,apple_pay,paypal,google_pay,shopify_pay,,' | remove: ' ' | split: ',' %}\n  {% for type in enabled_payment_types %}\n    {{ type | payment_type_svg_tag: class: 'payment-icon' }}\n  {% endfor %}\n</div>"
           }
         },
         "description": {
@@ -95,7 +95,7 @@
         "quantity_selector",
         "inventory_ptdNFE",
         "buy_buttons",
-        "liquid_KVpwcK",
+        "liquid_TGQW7c",
         "description",
         "collapsible_text_3HyjY7"
       ],
