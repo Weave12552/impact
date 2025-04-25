@@ -62,25 +62,18 @@
             "payment_button_text_color": "#f9e7c4"
           }
         },
+        "liquid_KVpwcK": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"essential-banners-block\" id=\"7e537291-2c20-460a-8a0c-945d4df1ca1d\"></div>"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
             "icon": "none",
             "icon_width": 20,
             "collapse_content": false
-          }
-        },
-        "essential_trust_badges_app_block_yr3Vry": {
-          "type": "shopify://apps/essential-trust-badges/blocks/app-block/0ff65b25-07e1-408e-950f-f54dd3d1751b",
-          "settings": {
-            "banner_display": "single",
-            "banner_id": "7e537291-2c20-460a-8a0c-945d4df1ca1d"
-          }
-        },
-        "liquid_KVpwcK": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"essential-banners-block\" id=\"7e537291-2c20-460a-8a0c-945d4df1ca1d\"></div>"
           }
         },
         "collapsible_text_3HyjY7": {
@@ -102,9 +95,8 @@
         "quantity_selector",
         "inventory_ptdNFE",
         "buy_buttons",
-        "description",
-        "essential_trust_badges_app_block_yr3Vry",
         "liquid_KVpwcK",
+        "description",
         "collapsible_text_3HyjY7"
       ],
       "settings": {
