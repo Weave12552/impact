@@ -1,0 +1,349 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "collection-banner",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "show_collection_title": true,
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "collection_title_size": "h0",
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "featured_product": "",
+        "featured_product_heading": "Featured product",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "products_per_page": 24,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "filter_layout": "sidebar",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_filter_values_count": true,
+        "open_first_filter_group": false
+      }
+    },
+    "rich_text_zCAgg4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_jMFNMt": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_bLP6GE": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_jMFNMt",
+        "richtext_bLP6GE"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_WrcHtm": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_NhxNkx": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_6jNLq3": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NhxNkx",
+        "richtext_6jNLq3"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-start-end text-end",
+        "desktop_text_position": "sm:place-self-start-end sm:text-end",
+        "text_color": "#f9e7c4",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "featured_collection_TRYEGn": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "tous-les-produits",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": true,
+        "products_count": 2,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Nos préférés !",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "image_with_text_overlay_BhPCJd": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_WqCYYE": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_EExUGE": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WqCYYE",
+        "richtext_EExUGE"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-start text-start",
+        "desktop_text_position": "sm:place-self-start sm:text-start",
+        "text_color": "#f9e7c4",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "comparison_table_y7Vwb6": {
+      "type": "comparison-table",
+      "blocks": {
+        "headings_CDQzCb": {
+          "type": "headings",
+          "settings": {
+            "heading_1": "Heading 1",
+            "heading_2": "Heading 2",
+            "heading_3": "Heading 3",
+            "heading_4": "",
+            "heading_5": "",
+            "heading_6": "",
+            "heading_7": "",
+            "heading_8": "",
+            "heading_9": "",
+            "heading_10": "",
+            "heading_11": "",
+            "heading_12": "",
+            "heading_13": "",
+            "heading_14": "",
+            "heading_15": "",
+            "heading_16": "",
+            "heading_17": "",
+            "heading_18": "",
+            "heading_19": "",
+            "heading_20": ""
+          }
+        },
+        "values_WRmTzW": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>Value 1</p>",
+            "value_2": "<p>Value 2</p>",
+            "value_3": "<p>Value 3</p>",
+            "value_4": "",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "values_V4Hib9": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>Value 1</p>",
+            "value_2": "<p>Value 2</p>",
+            "value_3": "<p>Value 3</p>",
+            "value_4": "",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        },
+        "values_44rqPQ": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>Value 1</p>",
+            "value_2": "<p>Value 2</p>",
+            "value_3": "<p>Value 3</p>",
+            "value_4": "",
+            "value_5": "",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "headings_CDQzCb",
+        "values_WRmTzW",
+        "values_V4Hib9",
+        "values_44rqPQ"
+      ],
+      "name": "Comparison table",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Product comparison",
+        "content": "<p>Give your customers useful information about your products and showcase differences between them.</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "max_rows": 5,
+        "view_all_text": "View all",
+        "view_less_text": "View less",
+        "view_product": "View",
+        "show_product_info": false,
+        "show_product_image": true,
+        "show_product_swatch": true,
+        "viewing_product": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#f9e7c4",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "chart_background": "",
+        "chart_text_color": "#f9e7c4",
+        "chart_true_false_color": ""
+      }
+    },
+    "newsletter_Em6nzc": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": false,
+        "title": "BÉNÉFICIEZ DE 10 % DE RÉDUCTION",
+        "content": "<h3><em>sur votre première commande et pendant 48h !</em></h3>",
+        "button_text": "Recevoir ma réduction",
+        "subtext": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "#f9e7c4",
+        "button_text_color": "#2c4c46"
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "main",
+    "rich_text_zCAgg4",
+    "image_with_text_overlay_WrcHtm",
+    "featured_collection_TRYEGn",
+    "image_with_text_overlay_BhPCJd",
+    "comparison_table_y7Vwb6",
+    "newsletter_Em6nzc"
+  ]
+}
