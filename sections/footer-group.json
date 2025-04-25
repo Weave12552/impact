@@ -32,39 +32,42 @@
           "type": "item",
           "settings": {
             "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "custom_icon": "shopify://shop_images/service_client.png",
+            "mobile_icon_width": 120,
+            "icon_width": 120,
+            "icon_background_type": "circle",
+            "icon_background": "#f9e7c4",
+            "icon_color": "#2c4c46",
+            "title": "Service client réactif",
+            "content": ""
           }
         },
         "discount": {
           "type": "item",
           "settings": {
             "icon": "picto-coupon",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "custom_icon": "shopify://shop_images/ChatGPT_Image_25_avr._2025_11_08_54.png",
+            "mobile_icon_width": 120,
+            "icon_width": 120,
+            "icon_background_type": "circle",
+            "icon_background": "#f9e7c4",
+            "icon_color": "#2c4c46",
+            "title": "parrainer un ami",
+            "content": ""
           }
         },
         "payment": {
           "type": "item",
           "settings": {
             "icon": "picto-lock",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "custom_icon": "shopify://shop_images/paiement_securiser.png",
+            "mobile_icon_width": 120,
+            "icon_width": 120,
+            "icon_background_type": "circle",
+            "icon_background": "#f9e7c4",
+            "icon_color": "#2c4c46",
+            "title": "Paiement 100%  sécurisé",
+            "content": ""
           }
         }
       },
@@ -78,12 +81,12 @@
         "full_width": true,
         "stack_on_mobile": false,
         "title": "",
-        "heading_tag": "h6",
+        "heading_tag": "h5",
         "text_alignment": "center",
         "icon_spacing": "small",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#f9e7c4"
       }
     },
     "footer": {
