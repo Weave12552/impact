@@ -18,13 +18,14 @@
           "type": "item",
           "settings": {
             "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
+            "custom_icon": "shopify://shop_images/camio.png",
+            "mobile_icon_width": 120,
+            "icon_width": 120,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "Livraison rapide & suivie",
+            "content": ""
           }
         },
         "customer-support": {
