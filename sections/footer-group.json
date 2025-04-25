@@ -103,11 +103,30 @@
             "show_menu_title": true,
             "menu_title": "<em><strong>Autres</strong></em>"
           }
+        },
+        "text_babM66": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "content": "<p><em>Derrière chaque bouffée :</em></p><p><em> des années de passion<br/>condensées dans nos liquides.</em></p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "newsletter_GGrP9j": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 120,
+            "heading_size": "h3",
+            "title": "Sign up to our newsletter",
+            "content": ""
+          }
         }
       },
       "block_order": [
         "links_wmfrNp",
-        "links_dncP3K"
+        "links_dncP3K",
+        "text_babM66",
+        "newsletter_GGrP9j"
       ],
       "settings": {
         "show_social_media": true,
