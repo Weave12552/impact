@@ -21,9 +21,9 @@
             "custom_icon": "shopify://shop_images/camio.png",
             "mobile_icon_width": 120,
             "icon_width": 120,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
+            "icon_background_type": "circle",
+            "icon_background": "#f9e7c4",
+            "icon_color": "#2c4c46",
             "title": "Livraison rapide & suivie",
             "content": ""
           }
