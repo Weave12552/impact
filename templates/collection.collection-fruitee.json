@@ -49,16 +49,16 @@
         "heading_jMFNMt": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
+            "text": "🍓 L’explosion de saveurs à chaque bouffée",
+            "heading_tag": "h3",
+            "text_color": "#f9e7c4",
             "gradient": ""
           }
         },
         "richtext_bLP6GE": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>Envie d’une vape gourmande, vive et pleine de soleil ? Plonge dans notre </em><em><strong>collection d’e-liquides fruités</strong></em><em>, pensée pour les amateurs de sensations sucrées, acidulées et rafraîchissantes. Chez Le Petit Salon Vape, on a réuni les meilleurs jus pour te faire voyager de la fraise des bois au fruit du dragon, en passant par la mangue bien mûre et la pomme croquante.</em></p>"
           }
         }
       },
@@ -82,14 +82,14 @@
         "heading_NhxNkx": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "🍍 Pourquoi choisir un e-liquide fruité ?",
             "heading_tag": "h1"
           }
         },
         "richtext_6jNLq3": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>Les </em><em><strong>e-liquides fruités</strong></em><em> sont les stars des vapes modernes. Ils offrent une expérience riche en goût, souvent plus légère que les classiques tabac ou les gourmands. En all-day ou en alternance, ils apportent un vent de fraîcheur et de plaisir à chaque inhalation.</em></p><p><em>✅ Des saveurs naturelles et intenses<br/><br/>✅ Parfaits pour l’été (ou prolonger l’été toute l’année)<br/><br/>✅ Peu écœurants, faciles à vapoter toute la journée<br/><br/>✅ Idéal pour les débutants comme les confirmés</em></p>"
           }
         }
       },
@@ -101,10 +101,12 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-start-end text-end",
-        "desktop_text_position": "sm:place-self-start-end sm:text-end",
+        "image": "shopify://shop_images/0b739bc1-9b39-4fe4-aff2-b9a0ffd21d36.png",
+        "mobile_image": "shopify://shop_images/5c1d97ee-876b-429f-bca6-bcf896bbc4c7.png",
+        "mobile_text_position": "place-self-center-end text-end",
+        "desktop_text_position": "sm:place-self-center-end sm:text-end",
         "text_color": "#f9e7c4",
         "overlay_color": "#000000",
         "overlay_opacity": 30
@@ -142,14 +144,14 @@
         "heading_WqCYYE": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "🍑 Une collection fruitée… testée et approuvée",
             "heading_tag": "h1"
           }
         },
         "richtext_EExUGE": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>Tous nos e-liquides fruités sont </em><em><strong>sélectionnés avec soin</strong></em><em>. On privilégie des arômes bien dosés, sans excès de sucre, avec une belle </em><em><strong>équilibre entre douceur et fraîcheur</strong></em><em>. Chaque liquide a été testé en boutique, et validé par notre équipe (et nos clients !)</em>.</p>"
           }
         }
       },
@@ -161,10 +163,12 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-start text-start",
-        "desktop_text_position": "sm:place-self-start sm:text-start",
+        "image": "shopify://shop_images/2e43cd3c-c2d4-4de4-b77d-72b7809e479a.png",
+        "mobile_image": "shopify://shop_images/70dbe4c9-7b78-414e-ac40-8b36baa2f390.png",
+        "mobile_text_position": "place-self-center-start text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#f9e7c4",
         "overlay_color": "#000000",
         "overlay_opacity": 30
