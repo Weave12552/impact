@@ -89,7 +89,7 @@
         "associated_products_KBAbJg": {
           "type": "associated_products",
           "settings": {
-            "title": "Fréquemment acheté avec",
+            "title": "Fréquemment acheté avec :",
             "stack_products": false,
             "products_count": 10,
             "background": "#2c4c46",
