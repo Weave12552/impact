@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -6,17 +15,17 @@
         "totals": {
           "type": "totals",
           "settings": {
+            "show_order_weight": false,
+            "show_shipping_text": true
           }
         },
         "cart_note": {
           "type": "cart_note",
-          "settings": {
-          }
+          "settings": {}
         },
         "checkout_button": {
           "type": "checkout_button",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -25,10 +34,44 @@
         "checkout_button"
       ],
       "settings": {
+        "show_shipping_estimator": true,
+        "show_payment_icons": true
+      }
+    },
+    "featured_collection_Vq3bew": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "tous-les-produits",
+        "products": [
+          "americana-road-trip-ambiance",
+          "atomic-age-science-50s",
+          "candy-shop-pin-up",
+          "pop-art-superhero-comics-style"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": true,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Envie d'un E-liquide supplémentaire ?",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "featured_collection_Vq3bew"
   ]
 }
