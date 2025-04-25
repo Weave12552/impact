@@ -76,7 +76,7 @@
             "icon": "picto-love",
             "icon_width": 20,
             "title": "Détails",
-            "content": "<ul><li><em>Type : E liquide nicotiné ou non</em></li><li><em>Ratio : 50 % PG / 50 % VG</em></li><li><em>Origine : France métropolitaine</em></li></ul>",
+            "content": "<p>{{ product.metafields.custom.caract_ristique_produit | metafield_tag }}</p>",
             "page": ""
           }
         }
