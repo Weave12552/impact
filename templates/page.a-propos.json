@@ -11,10 +11,173 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "rich_text_Gc9gBh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8dLpGX": {
+          "type": "heading",
+          "settings": {
+            "text": "Notre Histoire",
+            "heading_tag": "h3",
+            "text_color": "#f9e7c4",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_8dLpGX"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_P4Fafe": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_c6drQE": {
+          "type": "heading",
+          "settings": {
+            "text": "Nous, c’est Laura et Julie",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_qkHqJr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em><strong>Tout a commencé avec une simple envie : retrouver du goût authentique,</strong></em></p><p><em><strong>Nous étions deux passionnés de vape,<br/>un jour, en goûtant un e-liquide censé évoquer la vanille bourbon, on s’est regardé, mi-amusés, mi-<br/>désespérés, et l’un de nous a lancé : \"On ferait mieux de les créer nous-mêmes.\"<br/><br/>Et c’est exactement ce qu’on a fait.<br/><br/>Le Petit Salon Vape, c’est plus qu’une boutique.<br/>C’est un atelier d’arômes, un hommage au vrai goût, Et un engagement pour un vapotage de qualité et plein de caractère.</strong></em></p><p><em><strong>Bienvenue chez nous</strong></em></p>"
+          }
+        },
+        "button_HgKCXc": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "lg",
+            "text": "Voir les E-liquides",
+            "url": "shopify://collections/tous-les-produits",
+            "background": "#f9e7c4",
+            "text_color": "#f9e7c4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_c6drQE",
+        "richtext_qkHqJr",
+        "button_HgKCXc"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Design_sans_titre_59.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_25_avr._2025_21_10_15.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#f9e7c4",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "contact_cYN7BH": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vous avez une question ?",
+        "content": "",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "#2c4c46",
+        "background_gradient": "",
+        "text_color": "#f9e7c4",
+        "heading_color": "#f9e7c4",
+        "heading_gradient": "",
+        "contact_background": "#2c4c46",
+        "contact_text_color": "#f9e7c4",
+        "button_background": "#f9e7c4",
+        "button_text_color": "#2c4c46"
+      }
+    },
+    "faq_aNjhc9": {
+      "type": "faq",
+      "blocks": {
+        "item_yp7iFR": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que les produits sont en stock ?",
+            "content": "<p><em>Oui, tous les produits visibles sur le site sont en stock réel. Si vous pouvez les ajouter au panier, c’est qu’ils sont dispo et prêts à être expédiés !</em></p>"
+          }
+        },
+        "item_CtUKyU": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que je peux suivre ma commande ?",
+            "content": "<p><em>Oui, dès que votre colis part, vous recevez un lien de suivi. Vous savez exactement où il est, en temps réel.</em></p>"
+          }
+        },
+        "item_iEYY76": {
+          "type": "item",
+          "settings": {
+            "title": "Et si j’ai un souci avec ma commande ?",
+            "content": "<p><em>Pas de panique. Contactez-nous par mail ou chat, on vous répond rapidement et on trouve une solution. Service client humain, pas robotisé.</em></p>"
+          }
+        },
+        "item_AqdzLf": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi je devrais commander ici plutôt qu’ailleurs ?",
+            "content": "<p><em>Parce qu’on fait les choses bien : produits de qualité, expédition rapide, service client aux petits soins, et une vraie passion pour la vape. Ici, vous n’êtes pas juste un numéro.</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_yp7iFR",
+        "item_CtUKyU",
+        "item_iEYY76",
+        "item_AqdzLf"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "Nous y avons déjà répondu",
+        "title": "Vous avez une question ?",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#2c4c46",
+        "background_gradient": "",
+        "text_color": "#f9e7c4",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "#2c4c46",
+        "button_text_color": "#f9e7c4",
+        "accordion_background": "#f9e7c4",
+        "accordion_text_color": "#2c4c46"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_Gc9gBh",
+    "image_with_text_overlay_P4Fafe",
+    "contact_cYN7BH",
+    "faq_aNjhc9"
   ]
 }
