@@ -299,11 +299,11 @@
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
+        "remove_horizontal_spacing": true,
         "liquid": "<div id=\"omnisend-embedded-v2-67fe27824edeafbc393bf33a\"></div>",
-        "background": "",
+        "background": "#2c4c46",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "#f9e7c4"
       }
     }
   },
