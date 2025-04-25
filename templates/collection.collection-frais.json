@@ -293,21 +293,17 @@
         "chart_true_false_color": ""
       }
     },
-    "newsletter_Em6nzc": {
-      "type": "newsletter",
-      "name": "Newsletter",
+    "custom_liquid_cbTMYP": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
       "settings": {
         "full_width": true,
-        "show_icon": false,
-        "title": "BÉNÉFICIEZ DE 10 % DE RÉDUCTION",
-        "content": "<h3><em>sur votre première commande et pendant 48h !</em></h3>",
-        "button_text": "Recevoir ma réduction",
-        "subtext": "",
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div id=\"omnisend-embedded-v2-67fe27824edeafbc393bf33a\"></div>",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "button_background": "#f9e7c4",
-        "button_text_color": "#2c4c46"
+        "text_color": ""
       }
     }
   },
@@ -319,6 +315,6 @@
     "featured_collection_TRYEGn",
     "image_with_text_overlay_BhPCJd",
     "comparison_table_y7Vwb6",
-    "newsletter_Em6nzc"
+    "custom_liquid_cbTMYP"
   ]
 }
