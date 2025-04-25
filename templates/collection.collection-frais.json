@@ -83,7 +83,7 @@
           "type": "heading",
           "settings": {
             "text": "❄️ C’est quoi un e-liquide frais ?",
-            "heading_tag": "h2"
+            "heading_tag": "h0"
           }
         },
         "richtext_6jNLq3": {
@@ -101,8 +101,10 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/e1cd71a5-df60-4af9-b7cd-3abc98d6aa0c.png",
+        "mobile_image": "shopify://shop_images/4526fe9d-2d85-44d2-b953-80f66e7bca80.png",
         "mobile_text_position": "place-self-center-end text-end",
         "desktop_text_position": "sm:place-self-center-end sm:text-end",
         "text_color": "#f9e7c4",
@@ -142,14 +144,14 @@
         "heading_WqCYYE": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "✅ Pourquoi choisir un e-liquide frais ?",
             "heading_tag": "h1"
           }
         },
         "richtext_EExUGE": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>❄️ </em><em><strong>Pour une vape ultra rafraîchissante</strong></em><em><br/><br/>Idéal pour les amateurs de sensations légères et toniques, l’e-liquide frais offre un vrai </em><em><strong>coup de frais à chaque bouffée</strong></em><em>.</em></p><p><em>🍃 </em><em><strong>Pour purifier le palais entre deux saveurs</strong></em><em><br/><br/>Parfait en alternance avec des arômes sucrés ou fruités, il </em><em><strong>nettoie le goût en douceur</strong></em><em> et prolonge le plaisir.</em></p><p><em>🌬️ </em><em><strong>Pour ressentir une vraie bouffée d’air pur</strong></em><em><br/><br/>Que ce soit mentholé, glacé ou boosté aux agrumes, l’e-liquide frais évoque la </em><em><strong>fraîcheur naturelle</strong></em><em>, sans excès ni lourdeur.</em></p>"
           }
         }
       },
@@ -161,10 +163,12 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-start text-start",
-        "desktop_text_position": "sm:place-self-start sm:text-start",
+        "image": "shopify://shop_images/45b1930d-2838-4238-9c56-52b330664c1b.png",
+        "mobile_image": "shopify://shop_images/2b1da5a1-51d3-4331-bdda-4db487b122ca.png",
+        "mobile_text_position": "place-self-center-start text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#f9e7c4",
         "overlay_color": "#000000",
         "overlay_opacity": 30
