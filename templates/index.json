@@ -612,10 +612,11 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_25_avr._2025_10_23_50_1.png",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Bienvenue chez Le Petit Salon Vape",
+            "content": "<p><em>Ici, chaque flacon raconte une histoire. Que tu sois amateur de sensations fruitées, de classiques intenses ou de créations artistiques, tu trouveras forcément ta vape idéale.<br/><br/>🌬️ Qualité française – Saveurs originales – Petits prix<br/><br/>Installe-toi. Détends-toi. Et découvre ta prochaine obsession.<br/><br/></em></p>",
             "button_url": "",
             "button_text": ""
           }
@@ -625,7 +626,18 @@
           "settings": {
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
+            "title": "Le design est aussi important que le goût.",
+            "content": "<p><em>Nos flacons ne sont pas juste beaux. Ils racontent des histoires, inspirées du rétro, du cinéma, de l’horreur pop ou du far west. Une vape qui sort du cadre, assumée, différente.</em></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_wMVbkE": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Image with text",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_url": "",
             "button_text": ""
@@ -634,7 +646,8 @@
       },
       "block_order": [
         "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
+        "1664424486a2b084ab-1",
+        "item_wMVbkE"
       ],
       "settings": {
         "full_width": true,
@@ -642,7 +655,7 @@
         "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#f9e7c4",
         "button_background": "",
         "button_text_color": ""
       }
