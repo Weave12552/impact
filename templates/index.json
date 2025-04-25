@@ -547,7 +547,7 @@
             "icon": "shopify://shop_images/2f553d77-55a8-4f2a-95dd-713b47eb691f.png",
             "icon_width": 100,
             "title": "🧪 Fabrication Française",
-            "content": "<ul><li>Produits élaborés en <strong>laboratoire certifié ISO</strong>.</li><li>Contrôles qualité stricts à chaque étape.</li><li>Traçabilité complète : numéro de lot + date limite d’utilisation.</li></ul>"
+            "content": "<ul><li><em>Produits élaborés en </em><em><strong>laboratoire certifié ISO</strong></em><em>.</em></li><li><em>Contrôles qualité stricts à chaque étape.</em></li><li><em>Traçabilité complète : numéro de lot + date limite d’utilisation.</em></li></ul>"
           }
         },
         "1664424434f5b7d0e0-1": {
@@ -557,6 +557,7 @@
             "vertical_position": 14,
             "horizontal_position_mobile": 62,
             "vertical_position_mobile": 14,
+            "icon": "shopify://shop_images/6376cafe-4c9d-436f-bf69-587580f30a1d.png",
             "icon_width": 100,
             "title": "🎯 Dosage de Nicotine au Choix",
             "content": "<ul><li><em>Disponible en plusieurs taux (0, 3, 6, 12, mg/ml selon la gamme).</em></li><li><em>Adapté aux fumeurs légers, modérés ou gros fumeurs.</em></li><li><em>Idéal pour un </em><em><strong>sevrage progressif</strong></em><em>.</em></li></ul>"
@@ -569,9 +570,10 @@
             "vertical_position": 75,
             "horizontal_position_mobile": 83,
             "vertical_position_mobile": 75,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "icon": "shopify://shop_images/ChatGPT_Image_25_avr._2025_14_14_18.png",
+            "icon_width": 100,
+            "title": "💨 Ratio PG/VG Équilibré",
+            "content": "<ul><li><em>Ratio classique </em><em><strong>50/50</strong></em><em> (Propylène Glycol / Glycérine Végétale) :</em></li><li><em><strong>PG</strong></em><em> : booste les saveurs et le hit.</em></li><li><em><strong>VG</strong></em><em> : donne une vapeur douce et dense.</em></li><li><em>Parfait pour tous types de clearomiseurs.</em></li></ul>"
           }
         }
       },
