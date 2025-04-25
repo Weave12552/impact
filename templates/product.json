@@ -85,6 +85,16 @@
             "content": "<p>{{ product.metafields.custom.caract_ristique_produit | metafield_tag }}</p>",
             "page": ""
           }
+        },
+        "associated_products_KBAbJg": {
+          "type": "associated_products",
+          "settings": {
+            "title": "Buy it with",
+            "stack_products": true,
+            "products_count": 5,
+            "background": "",
+            "text_color": ""
+          }
         }
       },
       "block_order": [
@@ -97,7 +107,8 @@
         "buy_buttons",
         "liquid_TGQW7c",
         "description",
-        "collapsible_text_3HyjY7"
+        "collapsible_text_3HyjY7",
+        "associated_products_KBAbJg"
       ],
       "settings": {
         "full_width": true,
