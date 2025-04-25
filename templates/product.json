@@ -63,6 +63,12 @@
             "payment_button_background": "#2c4c46",
             "payment_button_text_color": "#f9e7c4"
           }
+        },
+        "text_MbrEx6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.custom.avantage_produit.value }}</p>"
+          }
         }
       },
       "block_order": [
@@ -72,7 +78,8 @@
         "variant_picker",
         "quantity_selector",
         "inventory_ptdNFE",
-        "buy_buttons"
+        "buy_buttons",
+        "text_MbrEx6"
       ],
       "settings": {
         "full_width": true,
