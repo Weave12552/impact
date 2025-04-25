@@ -92,8 +92,8 @@
             "title": "Fréquemment acheté avec",
             "stack_products": true,
             "products_count": 10,
-            "background": "",
-            "text_color": ""
+            "background": "#f9e7c4",
+            "text_color": "#2c4c46"
           }
         }
       },
