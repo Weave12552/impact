@@ -49,16 +49,16 @@
         "heading_jMFNMt": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
+            "text": "🌟 Le plaisir à chaque bouffée",
+            "heading_tag": "h3",
+            "text_color": "#f9e7c4",
             "gradient": ""
           }
         },
         "richtext_bLP6GE": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>Chez </em><em><strong>Le Petit Salon Vape</strong></em><em>, chaque e-liquide est une </em><em><strong>invitation à la découverte</strong></em><em>. Que tu sois fan de </em><em><strong>fruits juteux</strong></em><em>, de </em><em><strong>fraîcheur glacée</strong></em><em>, de </em><em><strong>gourmandises sucrées</strong></em><em> ou d’arômes </em><em><strong>classiques</strong></em><em>, notre collection a été pensée pour satisfaire tous les palais.</em></p><p><em>Des recettes simples aux mélanges plus audacieux, chaque bouffée est une </em><em><strong>pause plaisir sans culpabilité</strong></em><em>, pour vapoter avec style, variété et qualité.</em></p>"
           }
         }
       },
@@ -82,14 +82,14 @@
         "heading_NhxNkx": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "🌟 C’est quoi un e-liquide ?",
             "heading_tag": "h1"
           }
         },
         "richtext_6jNLq3": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>Un </em><em><strong>e-liquide</strong></em><em>, c’est bien plus qu’un simple arôme : c’est une </em><em><strong>expérience sensorielle unique</strong></em><em> à chaque bouffée. Qu’il soit </em><em><strong>fruité, frais, gourmand, classique ou sucré</strong></em><em>, il est conçu pour </em><em><strong>réveiller tes papilles</strong></em><em> et s’adapter à tes envies du moment.</em></p><p><em>Envie de douceur ? D’intensité ? De fraîcheur ? D’un goût familier ou d’un mélange audacieux ? Notre large collection te permet de </em><em><strong>personnaliser ta vape</strong></em><em> selon ton humeur, ton moment de la journée ou ton style.</em></p><p><em>Un seul mot d’ordre : </em><em><strong>le plaisir, sans compromis.</strong></em></p>"
           }
         }
       },
@@ -101,10 +101,12 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-start-end text-end",
-        "desktop_text_position": "sm:place-self-start-end sm:text-end",
+        "image": "shopify://shop_images/b7b50aa4-d66c-4603-81e3-4a427180346a.png",
+        "mobile_image": "shopify://shop_images/bebe1956-8412-497f-8e3a-65b9c1de0c8f.png",
+        "mobile_text_position": "place-self-center-end text-end",
+        "desktop_text_position": "sm:place-self-center-end sm:text-end",
         "text_color": "#f9e7c4",
         "overlay_color": "#000000",
         "overlay_opacity": 30
@@ -142,14 +144,14 @@
         "heading_WqCYYE": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "✅ Pourquoi choisir un e-liquide de notre collection ?",
             "heading_tag": "h1"
           }
         },
         "richtext_EExUGE": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>🎯 <strong>Pour trouver la saveur qui vous correspond</strong><br/><br/>Fruité, frais, gourmand ou classique — notre collection réunit toutes les familles d’arômes pour s’adapter à chaque profil de vapoteur.</p><p>🔄 <strong>Pour varier les plaisirs au quotidien</strong><br/><br/>Alternez selon vos envies : une touche sucrée le matin, un fruit frais en journée, un gourmand réconfortant le soir.</p><p>💨 <strong>Pour une vape de qualité, sans compromis</strong><br/><br/>Nos e-liquides sont fabriqués avec soin, testés et équilibrés pour offrir une expérience riche en goût, douce et maîtrisée.</p>"
           }
         }
       },
@@ -161,10 +163,12 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-start text-start",
-        "desktop_text_position": "sm:place-self-start sm:text-start",
+        "image": "shopify://shop_images/be9dffa1-8986-4f52-a5ed-a5ed98c01267.png",
+        "mobile_image": "shopify://shop_images/af535b05-909e-4432-932f-54bd8d9cb588.png",
+        "mobile_text_position": "place-self-center-start text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#f9e7c4",
         "overlay_color": "#000000",
         "overlay_opacity": 30
