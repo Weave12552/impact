@@ -49,16 +49,16 @@
         "heading_jMFNMt": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
+            "text": "🍬 Le plaisir gourmand à chaque bouffée",
+            "heading_tag": "h3",
+            "text_color": "#f9e7c4",
             "gradient": ""
           }
         },
         "richtext_bLP6GE": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em><strong>Amateurs de saveurs sucrées, cette collection est faite pour vous.</strong></em><em> Chez Le Petit Salon Vape, on sait que la vape peut aussi être une véritable gourmandise. C’est pourquoi nous avons sélectionné une gamme d’</em><em><strong>e-liquides sucrés</strong></em><em> qui allient douceur, intensité et équilibre.</em></p><p><em>Du bonbon nostalgique à la pâtisserie onctueuse, en passant par les céréales croustillantes ou les fruits caramélisés… chaque bouffée est une pause plaisir, sans les calories.</em></p>"
           }
         }
       },
@@ -82,14 +82,14 @@
         "heading_NhxNkx": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "🍭 C’est quoi un e-liquide sucré ?",
             "heading_tag": "h1"
           }
         },
         "richtext_6jNLq3": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>Un</em><em><strong>e-liquide sucré</strong></em><em>, c’est un liquide pour cigarette électronique dont l’arôme rappelle les saveurs sucrées que l’on aime tous : bonbons, gâteaux, glaces, céréales, sirops, fruits confits, etc. Il peut être mono-arôme ou plus complexe, mais il est toujours travaillé pour offrir </em><em><strong>une vraie sensation de douceur en bouche</strong></em><em>.</em></p>"
           }
         }
       },
@@ -101,10 +101,12 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-start-end text-end",
-        "desktop_text_position": "sm:place-self-start-end sm:text-end",
+        "image": "shopify://shop_images/e4621f17-3f65-4926-897b-9d7c696edb2e.png",
+        "mobile_image": "shopify://shop_images/f4cfebd3-4eae-4e44-935a-8cf63363f2f5.png",
+        "mobile_text_position": "place-self-center-end text-end",
+        "desktop_text_position": "sm:place-self-center-end sm:text-end",
         "text_color": "#f9e7c4",
         "overlay_color": "#000000",
         "overlay_opacity": 30
@@ -142,14 +144,14 @@
         "heading_WqCYYE": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "✅ Pourquoi choisir un e-liquide sucré ?",
             "heading_tag": "h1"
           }
         },
         "richtext_EExUGE": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>Pour se faire plaisir sans culpabiliser</em></p><p><em>Pour alterner avec des liquides fruités ou mentholés<br/><br/>Pour retrouver le goût de ses gourmandises préférées<br/><br/>Pour une vape onctueuse, chaleureuse et réconfortante</em></p>"
           }
         }
       },
@@ -161,10 +163,12 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": true,
+        "enable_parallax": false,
         "image_size": "auto",
-        "mobile_text_position": "place-self-start text-start",
-        "desktop_text_position": "sm:place-self-start sm:text-start",
+        "image": "shopify://shop_images/3abaf623-f6c2-4d57-8856-e6c7f5213ac7.png",
+        "mobile_image": "shopify://shop_images/0a63093f-1f7c-4c44-97e7-8faa40a33bf1.png",
+        "mobile_text_position": "place-self-center-start text-start",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#f9e7c4",
         "overlay_color": "#000000",
         "overlay_opacity": 30
