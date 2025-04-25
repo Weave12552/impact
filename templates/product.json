@@ -48,7 +48,7 @@
         "inventory_ptdNFE": {
           "type": "inventory",
           "settings": {
-            "low_inventory_threshold": 100
+            "low_inventory_threshold": 0
           }
         },
         "buy_buttons": {
