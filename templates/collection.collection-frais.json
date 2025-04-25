@@ -49,16 +49,16 @@
         "heading_jMFNMt": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
+            "text": "🍓 La fraîcheur fruitée à chaque inhalation",
+            "heading_tag": "h3",
+            "text_color": "#f9e7c4",
             "gradient": ""
           }
         },
         "richtext_bLP6GE": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Envie de légèreté, de fraîcheur et de sensations naturelles ? Notre collection <strong>100% fruitée</strong> est une invitation à l’évasion. Chez <strong>Le Petit Salon Vape</strong>, nous avons sélectionné les meilleurs e-liquides aux <strong>notes juteuses et authentiques</strong> pour vous offrir une vape vive, éclatante, et toujours équilibrée.</p>"
           }
         }
       },
