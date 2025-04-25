@@ -782,29 +782,37 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment choisir le taux de nicotine ?",
+            "content": "<ul><li><em><strong>0 mg/ml</strong></em><em> : sans nicotine, pour le plaisir du goût.</em></li><li><em><strong>3-6 mg/ml</strong></em><em> : petit fumeur ou vape en inhalation directe.</em></li><li><em><strong>12 mg/ml</strong></em><em> : fumeur modéré (10-20 cigarettes/jour).</em></li><li><em><strong>16-18 mg/ml</strong></em><em> : gros fumeur (&gt;20 cigarettes/jour).</em></li></ul>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Comment conserver mes e-liquides ?",
+            "content": "<p><em>À l'abri de la lumière, dans un endroit sec et frais (idéalement entre 15°C et 20°C). Tenir hors de portée des enfants et des animaux.</em></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Pourquoi ai-je un goût de brûlé ?",
+            "content": "<p><em>Plusieurs causes possibles :</em></p><ul><li><em>Résistance usée : pensez à la changer.</em></li><li><em>Puissance trop élevée : baissez vos watts.</em></li><li><em>Réservoir vide : rechargez votre e-liquide.</em></li></ul>"
+          }
+        },
+        "item_PKpYcP": {
+          "type": "item",
+          "settings": {
+            "title": "Que faire si ma cigarette électronique fuit ?",
+            "content": "<p><em>Vérifiez le serrage du réservoir, changez votre résistance si elle est usée, et assurez-vous d’utiliser un e-liquide adapté à votre modèle.</em></p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_PKpYcP"
       ],
       "settings": {
         "full_width": false,
