@@ -513,7 +513,7 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Autres Marques/Le Petit Salon Vape",
+        "title": "Les Autres Marques/Le Petit Salon Vape",
         "content": "",
         "before_image": "shopify://shop_images/Design_sans_titre_54.png",
         "before_image_mobile": "shopify://shop_images/Design_sans_titre_55.png",
@@ -522,7 +522,7 @@
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
-        "before_text": "Autres Marques",
+        "before_text": "Les Autres Marques",
         "after_text": "Le Petit Salon Vape",
         "drag_initial_position": 50,
         "background": "",
