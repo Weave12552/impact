@@ -82,14 +82,14 @@
         "heading_NhxNkx": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
+            "text": "❄️ C’est quoi un e-liquide frais ?",
+            "heading_tag": "h2"
           }
         },
         "richtext_6jNLq3": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><em>Un </em><em><strong>e-liquide frais</strong></em><em>, c’est l’effet </em><em><strong>mentholé ou glacé</strong></em><em> qui vient réveiller tes papilles à chaque bouffée. Il peut être </em><em><strong>purement menthe</strong></em><em> ou venir sublimer d'autres saveurs comme les </em><em><strong>fruits, les agrumes ou même les bonbons</strong></em><em> avec une touche givrée.</em></p><p><em>Idéal pour ceux qui cherchent une vape </em><em><strong>légère, vivifiante et ultra désaltérante</strong></em><em>, l’e-liquide frais apporte ce petit coup de boost qu’on adore, sans jamais écraser les arômes. </em><em><strong>Un vrai souffle d’air pur</strong></em><em>, parfait pour l’été… ou toute l’année si t’aimes la sensation de fraîcheur intense !</em></p>"
           }
         }
       },
@@ -103,8 +103,8 @@
         "allow_transparent_header": false,
         "enable_parallax": true,
         "image_size": "auto",
-        "mobile_text_position": "place-self-start-end text-end",
-        "desktop_text_position": "sm:place-self-start-end sm:text-end",
+        "mobile_text_position": "place-self-center-end text-end",
+        "desktop_text_position": "sm:place-self-center-end sm:text-end",
         "text_color": "#f9e7c4",
         "overlay_color": "#000000",
         "overlay_opacity": 30
