@@ -94,6 +94,11 @@
         "type": "shopify://apps/ultimate-gdpr-eu-cookie-banner/blocks/widget/9ad66af2-f521-41c0-96ef-0e66c4e1d187",
         "disabled": false,
         "settings": {}
+      },
+      "13759942015198248323": {
+        "type": "shopify://apps/willdesk-live-chat-helpdesk/blocks/helpdesk/fdb9f3d8-334c-44b1-86d1-03be979bbf8d",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
