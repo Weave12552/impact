@@ -318,9 +318,10 @@
         "item_kf9zKT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/7b39baf6-2190-428a-b333-7aee771daabb.png",
             "column_size": "3",
             "title": "Notre mission",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "content": "<p><em>Créer une expérience inoubliable en alliant qualité, transparence et passion.</em></p>",
             "link_url": "",
             "link_text": "",
@@ -330,9 +331,10 @@
         "item_36zrEV": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/f312ec64-3464-46e0-b5ab-a45bd200ed1e.png",
             "column_size": "3",
             "title": "Notre engagement",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "content": "<p><em>Nous sélectionnons des matériaux durables et collaborons avec des partenaires éthiques.</em></p>",
             "link_url": "",
             "link_text": "",
@@ -342,9 +344,10 @@
         "item_xjFgCe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/7412459c-2b97-4e78-8766-3dbc399423f3.png",
             "column_size": "3",
             "title": "Notre vision",
-            "heading_tag": "h4",
+            "heading_tag": "h3",
             "content": "<p><em>Offrir du beau, du fonctionnel et du durable pour chaque génération, aujourd’hui et demain.</em></p>",
             "link_url": "",
             "link_text": "",
@@ -362,7 +365,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "small",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "Pourquoi nous existons ?",
         "content": "",
