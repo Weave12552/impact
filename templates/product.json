@@ -216,8 +216,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/746b1bf2-05a1-46b3-8392-182cbb458d62.png",
-        "mobile_image": "shopify://shop_images/ee1a80c5-80ec-42ad-a1e0-a6916675f849.png",
+        "image": "shopify://shop_images/2a8c75a5-5581-4617-946d-bb010a0e8a9e.png",
+        "mobile_image": "shopify://shop_images/7d013005-e212-440b-b021-07af7c694ea5.png",
         "mobile_text_position": "place-self-center-start text-start",
         "desktop_text_position": "sm:place-self-center-start sm:text-start",
         "text_color": "#f9e7c4",
@@ -311,6 +311,65 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "multi_column_H7mEKJ": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kf9zKT": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Notre mission",
+            "heading_tag": "h4",
+            "content": "<p><em>Créer une expérience inoubliable en alliant qualité, transparence et passion.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_36zrEV": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Notre engagement",
+            "heading_tag": "h4",
+            "content": "<p><em>Nous sélectionnons des matériaux durables et collaborons avec des partenaires éthiques.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xjFgCe": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Notre vision",
+            "heading_tag": "h4",
+            "content": "<p><em>Offrir du beau, du fonctionnel et du durable pour chaque génération, aujourd’hui et demain.</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kf9zKT",
+        "item_36zrEV",
+        "item_xjFgCe"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Pourquoi nous existons ?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -318,6 +377,7 @@
     "text_with_icons_zw7nkC",
     "image_with_text_overlay_6EwBFA",
     "faq_hjiQFP",
-    "featured_collection_bjUCFX"
+    "featured_collection_bjUCFX",
+    "multi_column_H7mEKJ"
   ]
 }
