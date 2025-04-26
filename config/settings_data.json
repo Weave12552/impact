@@ -89,6 +89,11 @@
         "type": "shopify://apps/trustoo-io-reviews/blocks/trustoo-review-switch/c8f15077-6475-4e86-ad06-b66038d5ba2c",
         "disabled": true,
         "settings": {}
+      },
+      "8942208844547249051": {
+        "type": "shopify://apps/ultimate-gdpr-eu-cookie-banner/blocks/widget/9ad66af2-f521-41c0-96ef-0e66c4e1d187",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
