@@ -81,11 +81,6 @@
         "disabled": false,
         "settings": {}
       },
-      "13759942015198248323": {
-        "type": "shopify://apps/willdesk-live-chat-helpdesk/blocks/helpdesk/fdb9f3d8-334c-44b1-86d1-03be979bbf8d",
-        "disabled": false,
-        "settings": {}
-      },
       "15683396631634586217": {
         "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
@@ -102,6 +97,11 @@
       },
       "3140817623390692025": {
         "type": "shopify://apps/na-age-verification/blocks/agechecker_y1K8NR3dvv/15fad4c9-4ba9-4c27-8e6c-1f214a81924f",
+        "disabled": true,
+        "settings": {}
+      },
+      "13759942015198248323": {
+        "type": "shopify://apps/willdesk-live-chat-helpdesk/blocks/helpdesk/fdb9f3d8-334c-44b1-86d1-03be979bbf8d",
         "disabled": true,
         "settings": {}
       }
