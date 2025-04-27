@@ -674,13 +674,6 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "item_8rq669": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
@@ -711,7 +704,6 @@
         }
       },
       "block_order": [
-        "item_8rq669",
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
