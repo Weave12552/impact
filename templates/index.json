@@ -728,6 +728,19 @@
         "background_gradient": "",
         "text_color": "#f9e7c4"
       }
+    },
+    "custom_liquid_qp9jww": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n#age-verification {\n  position: fixed;\n  top: 0; left: 0; width: 100%; height: 100%;\n  background: rgba(0,0,0,0.8);\n  display: none;\n  align-items: center;\n  justify-content: center;\n  z-index: 9999;\n}\n#age-verification .popup {\n  background: #fff;\n  padding: 40px 30px;\n  border-radius: 12px;\n  text-align: center;\n  width: 90%;\n  max-width: 400px;\n  box-shadow: 0px 5px 20px rgba(0,0,0,0.4);\n  font-family: Arial, sans-serif;\n  animation: fadeIn 0.5s ease forwards;\n}\n#age-verification h2 {\n  font-size: 24px;\n  color: #333;\n  margin-bottom: 20px;\n}\n#age-verification p {\n  font-size: 16px;\n  color: #555;\n  margin-bottom: 30px;\n}\n#age-verification button {\n  padding: 12px 30px;\n  font-size: 16px;\n  background-color: #4CAF50;\n  color: white;\n  border: none;\n  border-radius: 5px;\n  cursor: pointer;\n}\n@keyframes fadeIn {\n  from { opacity: 0; transform: translateY(-10px); }\n  to { opacity: 1; transform: translateY(0); }\n}\n</style>\n\n<div id=\"age-verification\">\n  <div class=\"popup\">\n    <h2>Vérification d'âge</h2>\n    <p>En entrant sur ce site, vous confirmez avoir 18 ans ou plus.</p>\n    <button id=\"enter-site\">Oui, j'ai 18 ans</button>\n  </div>\n</div>\n\n<script>\ndocument.addEventListener('DOMContentLoaded', function() {\n  var verified = localStorage.getItem('ageVerified');\n  var popup = document.getElementById('age-verification');\n\n  if (!verified) {\n    popup.style.display = 'flex';\n  }\n\n  document.getElementById('enter-site').addEventListener('click', function() {\n    localStorage.setItem('ageVerified', 'true');\n    popup.style.display = 'none';\n  });\n});\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -743,6 +756,7 @@
     "hot-spots",
     "multiple-images-with-text",
     "faq",
-    "custom_liquid_7ni6qi"
+    "custom_liquid_7ni6qi",
+    "custom_liquid_qp9jww"
   ]
 }
