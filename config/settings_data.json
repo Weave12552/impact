@@ -102,7 +102,7 @@
       },
       "13759942015198248323": {
         "type": "shopify://apps/willdesk-live-chat-helpdesk/blocks/helpdesk/fdb9f3d8-334c-44b1-86d1-03be979bbf8d",
-        "disabled": true,
+        "disabled": false,
         "settings": {}
       }
     }
